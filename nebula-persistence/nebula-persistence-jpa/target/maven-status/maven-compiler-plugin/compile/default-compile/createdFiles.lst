@@ -1,0 +1,14 @@
+com\tr\nebula\persistence\jpa\criteria\TransformerUtil$Elements.class
+com\tr\nebula\persistence\jpa\util\PredGenerator$1.class
+com\tr\nebula\persistence\jpa\services\JpaService.class
+com\tr\nebula\persistence\jpa\dao\BaseDaoImpl.class
+com\tr\nebula\persistence\jpa\services\CrudService.class
+com\tr\nebula\persistence\jpa\criteria\JpaQueryUtil.class
+com\tr\nebula\persistence\jpa\util\PredGenerator.class
+com\tr\nebula\persistence\jpa\criteria\TransformerImpl.class
+com\tr\nebula\persistence\jpa\criteria\EntityMetaFinderImpl.class
+com\tr\nebula\persistence\jpa\domain\BaseEntity.class
+com\tr\nebula\persistence\jpa\App.class
+com\tr\nebula\persistence\jpa\criteria\JpaQueryUtil$1.class
+com\tr\nebula\persistence\jpa\criteria\TransformerUtil.class
+com\tr\nebula\persistence\jpa\domain\ABaseEntity.class

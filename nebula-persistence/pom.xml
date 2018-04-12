@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>nebula</artifactId>
+        <groupId>com.tr.nebula</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.tr.nebula.persistence</groupId>
+    <artifactId>nebula-persistence</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>nebula-persistence-jpa</module>
+        <module>nebula-persistence-api</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.tr.nebula.persistence.api</groupId>
+                <artifactId>nebula-persistence-api</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.tr.nebula.persistence.jpa</groupId>
+                <artifactId>nebula-persistence-jpa</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    <dependencies>
+    </dependencies>
+</project>

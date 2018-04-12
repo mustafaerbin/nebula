@@ -1,0 +1,32 @@
+package com.tr.nebula.quartz;
+
+
+import com.tr.nebula.quartz.info.TriggerInfo;
+
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
+
+/**
+ * Annotation class for cron operations operations.
+ */
+@Target(ElementType.TYPE)
+@Retention(RetentionPolicy.RUNTIME)
+public @interface NebulaTrigger {
+    String name();
+
+    String group();
+
+    long startTime() default -1;
+
+    long endTime() default -1;
+
+    int repeatCount() default 0;
+
+    long repeatInterval() default 0;
+
+    String cron() default "";
+
+    TriggerInfo.Type type();
+}
