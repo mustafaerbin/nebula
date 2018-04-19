@@ -18,12 +18,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <repositories>
-        <repository>
-            <id>Mebitech</id>
-            <url>http://dev.mebitech.com/artifactory/Mebitech-Repo</url>
-        </repository>
-    </repositories>
     <dependencies>
         <dependency>
             <groupId>com.tr.nebula.persistence.api</groupId>
