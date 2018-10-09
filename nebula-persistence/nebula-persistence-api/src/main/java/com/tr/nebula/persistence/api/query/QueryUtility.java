@@ -21,7 +21,7 @@ import java.lang.reflect.Field;
 import java.util.*;
 
 /**
- * Created by kamilbukum on 17/01/2017.
+ * Created by Mustafa Erbin on 17/01/2017.
  */
 public class QueryUtility {
     private static final Logger LOGGER = LoggerFactory.getLogger(QueryUtility.class);

@@ -9,7 +9,7 @@ import javax.persistence.*;
 /**
  * Created by Mustafa Erbin on 27.03.2017.
  */
-@Entity
+@Entity(name = "n_permission")
 public class Permission extends BaseEntity implements NebulaPermission {
 
 //    @Column(length = 100)

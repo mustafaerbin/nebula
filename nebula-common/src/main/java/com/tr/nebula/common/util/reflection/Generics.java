@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * Created by kamilbukum on 30/01/2017.
+ * Created by Mustafa Erbin on 30/01/2017.
  */
 public class Generics {
 

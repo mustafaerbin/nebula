@@ -6,7 +6,7 @@ import com.tr.nebula.core.bundle.Bundle;
 import com.tr.nebula.core.bundle.BundleContext;
 
 /**
- * Created by Ali Kızılırmak on 24.05.2017.
+ * Created by Mustafa Erbin on 24.05.2017.
  */
 public class NebulaCacheBundle extends Bundle<NebulaCacheConfiguration, Object>{
     private static final TypeReference<NebulaCacheConfiguration> TYPE_REFERENCE = new TypeReference<NebulaCacheConfiguration>() {

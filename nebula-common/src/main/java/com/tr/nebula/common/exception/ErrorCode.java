@@ -1,7 +1,7 @@
 package com.tr.nebula.common.exception;
 
 /**
- * Created by kamilbukum on 13/03/2017.
+ * Created by Mustafa Erbin on 13/03/2017.
  */
 public enum ErrorCode {
    HTTP_100("Continue"),

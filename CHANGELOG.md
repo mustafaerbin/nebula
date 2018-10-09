@@ -17,7 +17,7 @@
 * changed CrudService and JpaService
 * added Criteria API
 * changed minimum Java Version as 1.8
-* added new **robe-mail** module
-* fixed pom dependencies problem of robe-persistence-jpa
+* added new **nebula-mail** module
+* fixed pom dependencies problem of nebula-persistence-jpa
 * added comment about repository.
 * changed package of classes of persistence-jpa module.

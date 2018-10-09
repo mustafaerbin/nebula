@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by kamilbukum on 10/01/2017.
+ * Created by Mustafa Erbin on 10/01/2017.
  */
 public class TransformerImpl<E> extends Transformer<E> {
     private static EntityMetaFinder finder = new EntityMetaFinderImpl();

@@ -3,7 +3,7 @@ package com.tr.nebula.persistence.api.criteria.cache;
 import java.lang.reflect.Field;
 
 /**
- * Created by kamilbukum on 12/01/2017.
+ * Created by Mustafa Erbin on 12/01/2017.
  */
 public class FieldMeta {
     private final boolean searchIgnore;

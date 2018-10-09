@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by kamilbukum on 10/01/2017.
+ * Created by Mustafa Erbin on 10/01/2017.
  */
 public abstract class Transformer<E> {
     private final EntityMetaFinder finder;

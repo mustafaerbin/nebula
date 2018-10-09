@@ -7,7 +7,7 @@ import java.util.Random;
 import java.util.UUID;
 
 /**
- * Created by kamilbukum on 21/03/2017.
+ * Created by Mustafa Erbin on 21/03/2017.
  */
 @Entity
 public class Example {

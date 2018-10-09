@@ -1,7 +1,7 @@
 package com.tr.nebula.persistence.api.criteria.projection;
 
 /**
- * Created by kamilbukum on 16/01/2017.
+ * Created by Mustafa Erbin on 16/01/2017.
  */
 public class EnhancedProjection implements Projection {
     /**

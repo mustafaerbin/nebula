@@ -20,6 +20,6 @@ public interface NebulaPermissionRepository extends JpaRepository<Permission, Lo
 
     @Modifying
     @Transactional
-    @Query(value="delete from Permission c where c.role = ?1 and c.permissionType = ?2")
+    @Query(value="delete from n_permission c where c.role = ?1 and c.permissionType = ?2")
     Integer deleteByRoleAndPermissionType(Role role, PermissionType type);
 }

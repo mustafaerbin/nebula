@@ -9,7 +9,7 @@ import javax.persistence.Entity;
 /**
  * Created by  Mustafa Erbin on 12.05.2017.
  */
-@Entity
+@Entity(name = "n_rest")
 public class Rest extends BaseEntity implements NebulaRest {
 
     @Column(name = "path")

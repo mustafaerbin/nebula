@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Properties;
 
 /**
- * Created by hasanmumin on 07/03/2017.
+ * Created by Mustafa Erbin on 07/03/2017.
  */
 public class QuartzConfiguration {
     private String[] scanPackages;

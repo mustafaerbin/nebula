@@ -3,7 +3,7 @@ package com.tr.nebula.core.bundle;
 import com.fasterxml.jackson.core.type.TypeReference;
 
 /**
- * Created by kamilbukum on 09/03/2017.
+ * Created by Mustafa Erbin on 09/03/2017.
  */
 public abstract class Bundle<P, S> {
     private Boolean start = false;

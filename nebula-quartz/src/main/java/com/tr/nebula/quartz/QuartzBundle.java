@@ -9,7 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Created by hasanmumin on 10/03/2017.
+ * Created by Mustafa Erbin on 10/03/2017.
  */
 @BundleConfig(order = 2)
 public class QuartzBundle extends Bundle<QuartzConfiguration, Object> {

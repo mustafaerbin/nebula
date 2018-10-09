@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.nio.charset.Charset;
 
 /**
- * Created by kamilbukum on 07/03/2017.
+ * Created by Mustafa Erbin on 07/03/2017.
  */
 public class EncodingUtil {
 

@@ -24,7 +24,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * Created by kamilbukum on 09/03/2017.
+ * Created by Mustafa Erbin on 09/03/2017.
  */
 @Configuration
 @ConfigurationProperties

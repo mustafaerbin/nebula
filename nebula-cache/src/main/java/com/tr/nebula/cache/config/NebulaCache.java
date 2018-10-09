@@ -6,7 +6,7 @@ import net.sf.ehcache.config.CacheConfiguration;
 import net.sf.ehcache.config.Configuration;
 
 /**
- * Created by Ali Kızılırmak on 22.05.2017.
+ * Created by Mustafa Erbin on 22.05.2017.
  */
 
 public class NebulaCache implements ICacheService{

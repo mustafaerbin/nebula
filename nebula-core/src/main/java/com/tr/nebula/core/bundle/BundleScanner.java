@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by kamilbukum on 09/03/2017.
+ * Created by Mustafa Erbin on 09/03/2017.
  */
 public class BundleScanner {
     private static final int DEFAULT_ORDER = 0;

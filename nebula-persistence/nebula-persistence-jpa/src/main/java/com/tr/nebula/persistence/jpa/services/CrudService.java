@@ -8,7 +8,7 @@ import javax.transaction.Transactional;
 import java.io.Serializable;
 
 /**
- * Created by kamilbukum on 01/03/2017.
+ * Created by Mustafa Erbin on 01/03/2017.
  */
 public class CrudService<T, ID extends Serializable> {
 

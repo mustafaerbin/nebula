@@ -9,7 +9,7 @@ import javax.persistence.Entity;
 /**
  * Created by  Mustafa Erbin on 21.03.2017.
  */
-@Entity
+@Entity(name = "n_role")
 public class Role extends BaseEntity implements NebulaRole {
 
     @Column(name = "code", nullable = false)

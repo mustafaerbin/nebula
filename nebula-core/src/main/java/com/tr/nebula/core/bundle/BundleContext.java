@@ -1,7 +1,7 @@
 package com.tr.nebula.core.bundle;
 
 /**
- * Created by kamilbukum on 09/03/2017.
+ * Created by Mustafa Erbin on 09/03/2017.
  */
 public class BundleContext<C> {
     private C context;

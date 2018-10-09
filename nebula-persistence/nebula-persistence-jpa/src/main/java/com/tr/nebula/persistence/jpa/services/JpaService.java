@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by kamilbukum on 02/03/2017.
+ * Created by Mustafa Erbin on 02/03/2017.
  */
 public class JpaService<T, ID extends Serializable> extends CrudService<T, ID> {
 

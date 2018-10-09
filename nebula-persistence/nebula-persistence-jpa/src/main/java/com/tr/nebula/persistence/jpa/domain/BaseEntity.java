@@ -5,7 +5,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * Created by kamilbukum on 06/03/2017.
+ * Created by Mustafa Erbin on 06/03/2017.
  */
 @MappedSuperclass
 public abstract class BaseEntity implements Serializable {

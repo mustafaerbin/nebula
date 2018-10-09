@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by kamilbukum on 20/03/2017.
+ * Created by Mustafa Erbin on 20/03/2017.
  */
 public interface BaseDao<T, ID extends Serializable> {
     /**

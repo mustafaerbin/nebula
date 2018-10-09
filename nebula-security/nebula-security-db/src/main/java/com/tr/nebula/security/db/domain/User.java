@@ -9,7 +9,7 @@ import javax.persistence.*;
 /**
  * Created by Mustafa Erbin on 21.03.2017.
  */
-@Entity
+@Entity(name = "n_user")
 @Inheritance(strategy = InheritanceType.JOINED)
 public class User extends BaseEntity implements NebulaUser {
 

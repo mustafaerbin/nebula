@@ -1,7 +1,7 @@
 package com.tr.nebula.common.util;
 
 /**
- * Created by kamilbukum on 07/03/2017.
+ * Created by Mustafa Erbin on 07/03/2017.
  */
 public class Paths {
     /**

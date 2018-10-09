@@ -18,7 +18,7 @@ import java.util.Map;
 import java.util.function.Predicate;
 
 /**
- * Created by kamilbukum on 12/01/2017.
+ * Created by Mustafa Erbin on 12/01/2017.
  */
 public class EntityMetaFinderImpl implements EntityMetaFinder {
     /**

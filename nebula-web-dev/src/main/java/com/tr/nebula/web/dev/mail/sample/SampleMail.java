@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 
 /**
- * Created by recepkoseoglu on 3/24/17.
+ * Created by Mustafa Erbin on 3/24/17.
  */
 public class SampleMail {
 

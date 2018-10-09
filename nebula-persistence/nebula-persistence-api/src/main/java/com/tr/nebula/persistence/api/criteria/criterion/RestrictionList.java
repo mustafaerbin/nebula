@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by kamilbukum on 16/01/2017.
+ * Created by Mustafa Erbin on 16/01/2017.
  */
 public class RestrictionList extends Restriction {
     private final List<Restriction> restrictions;

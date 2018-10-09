@@ -3,7 +3,7 @@ package com.tr.nebula.asset;
 import javax.servlet.http.HttpServlet;
 
 /**
- * Created by kamilbukum on 07/03/2017.
+ * Created by Mustafa Erbin on 07/03/2017.
  */
 public abstract class AssetServlet extends HttpServlet {
     /**

@@ -1,7 +1,7 @@
 package com.tr.nebula.quartz.info;
 
 /**
- * Created by hasanmumin on 06/03/2017.
+ * Created by Mustafa Erbin on 06/03/2017.
  */
 public interface TriggerInfo {
 

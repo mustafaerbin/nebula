@@ -4,7 +4,7 @@ import com.tr.nebula.mail.MailEvent;
 import com.tr.nebula.mail.MailItem;
 
 /**
- * Created by recepkoseoglu on 3/21/17.
+ * Created by Mustafa Erbin on 3/21/17.
  */
 public class Event implements MailEvent {
     @Override
