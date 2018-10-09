@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Created by  Mustafa Erbin on 29.03.2017.
  */
-@Entity
+@Entity(name = "n_menu")
 public class Menu extends BaseEntity implements NebulaMenu {
     @Column(length = 50, nullable = false)
     private String text;
