@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.context.support.StandardServletEnvironment;
 
 /**
- * Created by kamilbukum on 03/03/2017.
+ * Created by Mustafa Erbin on 03/03/2017.
  */
 
 @ComponentScan({"com.tr.nebula.web.dev"})
