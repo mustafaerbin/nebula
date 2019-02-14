@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.UUID;
 
 /**
- * Created by kamilbukum on 09/03/2017.
+ * Created by Mustafa Erbin on 09/03/2017.
  */
 public class AssetBundle extends Bundle<List<AssetProperties>, ServletContext> {
     private static final TypeReference<List<AssetProperties>> LIST_TYPE_REFERENCE = new TypeReference<List<AssetProperties>>() {
