@@ -3,7 +3,7 @@ package com.tr.nebula.persistence.api.criteria.cache;
 import java.util.Map;
 
 /**
- * Created by kamilbukum on 12/01/2017.
+ * Created by Mustafa Erbin on 12/01/2017.
  */
 public class EntityMeta {
     private final String identityName;

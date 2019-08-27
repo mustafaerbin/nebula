@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * Created by kamilbukum on 27/03/2017.
+ * Created by Mustafa Erbin on 27/03/2017.
  */
 public class BaseDaoImplTest {
 

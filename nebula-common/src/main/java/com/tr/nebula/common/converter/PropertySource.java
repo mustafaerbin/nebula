@@ -3,7 +3,7 @@ package com.tr.nebula.common.converter;
 import java.io.InputStream;
 
 /**
- * Created by kamilbukum on 10/03/2017.
+ * Created by Mustafa Erbin on 10/03/2017.
  */
 public class PropertySource<I> {
     private final Type type;

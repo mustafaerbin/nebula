@@ -22,7 +22,7 @@ import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
 
 /**
- * Created by kamilbukum on 28/02/2017.
+ * Created by Mustafa Erbin on 28/02/2017.
  */
 @SpringBootApplication
 @EnableSwagger2

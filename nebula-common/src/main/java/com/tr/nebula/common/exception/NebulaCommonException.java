@@ -1,7 +1,7 @@
 package com.tr.nebula.common.exception;
 
 /**
- * Created by kamilbukum on 10/03/2017.
+ * Created by Mustafa Erbin on 10/03/2017.
  */
 public class NebulaCommonException extends RuntimeException {
     static final long serialVersionUID = -7034897190745766939L;

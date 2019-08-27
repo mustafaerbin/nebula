@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by kamilbukum on 10/03/2017.
+ * Created by Mustafa Erbin on 10/03/2017.
  */
 public class PropertyConverter {
     /**

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * Created by kamilbukum on 21/03/2017.
+ * Created by Mustafa Erbin on 21/03/2017.
  */
 @RestController
 @RequestMapping(value = "examples")

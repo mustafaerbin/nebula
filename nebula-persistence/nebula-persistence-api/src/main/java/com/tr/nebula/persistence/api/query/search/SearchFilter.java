@@ -1,7 +1,7 @@
 package com.tr.nebula.persistence.api.query.search;
 
 /**
- * Created by kamilbukum on 27/01/2017.
+ * Created by Mustafa Erbin on 27/01/2017.
  */
 public class SearchFilter {
     private String name;

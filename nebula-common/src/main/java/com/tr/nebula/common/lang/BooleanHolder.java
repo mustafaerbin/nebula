@@ -1,7 +1,7 @@
 package com.tr.nebula.common.lang;
 
 /**
- * Created by kamilbukum on 30/01/2017.
+ * Created by Mustafa Erbin on 30/01/2017.
  */
 public class BooleanHolder {
     private boolean value;
