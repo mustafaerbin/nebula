@@ -44,7 +44,7 @@
         <guava.version>21.0</guava.version>
         <guava.collection.version>r03</guava.collection.version>
         <java.version>1.8</java.version>
-        <quarzt.version>2.2.3</quarzt.version>
+        <quarzt.version>2.3.2</quarzt.version>
         <reflections.version>0.9.10</reflections.version>
         <mail.version>1.4</mail.version>
     </properties>
